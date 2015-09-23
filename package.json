@@ -1,0 +1,27 @@
+{
+  "name": "zfs-multi-backup-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binRick/zfs-multi-backup-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/zfs-multi-backup-cli/issues"
+  },
+  "homepage": "https://github.com/binRick/zfs-multi-backup-cli#readme",
+  "dependencies": {
+    "async": "^1.4.2",
+    "chalk": "^1.1.1",
+    "cli-select": "git+https://github.com/binRick/cli-select.git",
+    "express": "^4.13.3",
+    "multiview": "^2.2.5",
+    "underscore": "^1.8.3"
+  }
+}
